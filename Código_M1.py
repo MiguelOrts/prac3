@@ -1,4 +1,6 @@
 #Código A
 print('Hola Mundo!')
-hola= 7
 patata= 0
+
+hola=3+3+3+33+33+3+33+3+3+3+3+3+3+3+33+33+3+3+3+3+33+3
+print(hola)
